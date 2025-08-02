@@ -161,7 +161,7 @@ function App() {
         title: 'Mai Rang Sharbaton Ka',
         artist: 'Atif Aslam',
         album: '___',
-        url: '/songs/Mai Rang Sharbaton Ka.mp3',
+        url: '/songs/Main Rang Sharbaton Ka.mp3',
         coverUrl: '/covers/Main Rang Sharbaton Ka.jpg',
         file: new File([], 'Mai Rang Shabrbaton Ka.mp3'),
         duration: 0,
